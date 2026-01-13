@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Studio",
+  "description": "A professional AI-powered application to generate and edit images with text prompts. Features include image creation, sticker and logo generation, comic style art, and advanced editing functions like adding/removing objects, retouching, and composing images.",
+  "requestFramePermissions": []
+}
